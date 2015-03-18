@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>restopicer-data</name>
-	<description>RestopicerData project for Spring Boot (JPA and Rest)</description>
+	<description>RestopicerData project with Spring Boot (JPA and Rest)</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
